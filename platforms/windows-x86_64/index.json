@@ -1,0 +1,31 @@
+{
+  "conan": {
+    "packageId": "995e0f0b86a651012a3bfca00d60f35ae037db5e",
+    "reference": "zlib/1.2.11@",
+    "remote": "conan-center"
+  },
+  "library": {
+    "name": "zlib",
+    "reference": "zlib/1.2.11"
+  },
+  "packager": {
+    "name": "@ffi-packager/ffi-packager",
+    "url": "https://github.com/node-ffi-packager",
+    "version": "2.0.0"
+  },
+  "platform": {
+    "headerFiles": [
+      {
+        "name": "./include/zconf.h",
+        "path": "./include/zconf.h.js"
+      },
+      {
+        "name": "./include/zlib.h",
+        "path": "./include/zlib.h.js"
+      }
+    ],
+    "libraryDependencies": {},
+    "libraryFiles": ["./bin/zlib1.dll"],
+    "name": "windows-x86_64"
+  }
+}

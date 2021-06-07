@@ -1,0 +1,47 @@
+{
+  "name": "@ffi-libraries/zlib-v1.2.11",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Automatically generated FFI package for zlib v1.2.11: \"A Massively Spiffy Yet Delicately Unobtrusive Compression Library (Also Free, Not to Mention Unencumbered by Patents)\". Available for linux-x86_64, macos-armv8, macos-x86_64, windows-x86_64.",
+  "homepage": "https://github.com/node-ffi-libraries/node-ffi-library-zlib-v1.2.11",
+  "repository": "github:node-ffi-libraries/node-ffi-library-zlib-v1.2.11",
+  "license": "MIT",
+  "author": {
+    "name": "Joel Purra",
+    "email": "code+npm@joelpurra.com",
+    "url": "https://joelpurra.com/"
+  },
+  "engines": {
+    "node": "^12.0.0 || ^14.0.0 || ^16.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "ffi",
+    "binding",
+    "foreign function interface",
+    "napi",
+    "abi",
+    "c",
+    "c++",
+    "shared library",
+    "so",
+    "dll",
+    "dylib",
+    "conan.io",
+    "zlib",
+    "zlib-v1.2.11",
+    "conan",
+    "compression"
+  ],
+  "scripts": {
+    "test": "node \"./tests/load-all.js\""
+  },
+  "dependencies": {
+    "engine-check": "^1.0.1",
+    "ffi-napi": "^4.0.3",
+    "ref-array-di": "^1.2.2",
+    "ref-napi": "^3.0.3",
+    "ref-struct-di": "^1.1.1",
+    "ref-union-di": "^1.0.1"
+  }
+}
