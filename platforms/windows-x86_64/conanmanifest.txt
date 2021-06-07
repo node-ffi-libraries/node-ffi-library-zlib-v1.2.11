@@ -1,0 +1,7 @@
+1620232972
+bin/zlib1.dll: 66890062d50a9634f8e5b13cdb3f9ccf
+conaninfo.txt: 97d24ee84fdc8378f900c814c0f4eefa
+include/zconf.h: e5b18c411a45727e543081145b983bbc
+include/zlib.h: 0338828e9d00c94645648b1517108324
+lib/zlib.lib: b8ac6047b291b67f2166572d33623fda
+licenses/LICENSE: 1af2e5353c16e930435fff550f827c3e
