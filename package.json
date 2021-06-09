@@ -1,7 +1,7 @@
 {
   "name": "@ffi-libraries/zlib-v1.2.11",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Automatically generated FFI package for zlib v1.2.11: \"A Massively Spiffy Yet Delicately Unobtrusive Compression Library (Also Free, Not to Mention Unencumbered by Patents)\". Available for linux-x86_64, macos-armv8, macos-x86_64, windows-x86_64.",
   "homepage": "https://github.com/node-ffi-libraries/node-ffi-library-zlib-v1.2.11",
   "repository": "github:node-ffi-libraries/node-ffi-library-zlib-v1.2.11",
